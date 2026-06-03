@@ -1,2 +1,0 @@
-wwwroot\main.js
-wwwroot\index.html
